@@ -34,3 +34,8 @@ h2 {
 a{
 	text-decoration: none;
 }
+
+
+.container p {
+	color: white
+}
